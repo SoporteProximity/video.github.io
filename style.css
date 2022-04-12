@@ -1,0 +1,8 @@
+video{
+    width: max-content;
+    width: 100vmax;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
